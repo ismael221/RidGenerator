@@ -96,5 +96,3 @@ Sinta-se à vontade para fazer melhorias ou correções no código. Se você enc
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 ```
-
-Esse README fornece uma visão geral do projeto, explicando seu propósito, como utilizá-lo e como contribuir para o desenvolvimento. Além disso, inclui um exemplo de código que demonstra como o gerador de IDs aleatórios funciona.
